@@ -1,0 +1,3 @@
+D:\Dokumenter\xyz>start notepad.exe
+
+D:\Dokumenter\xyz>

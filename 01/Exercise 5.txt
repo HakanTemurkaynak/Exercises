@@ -1,0 +1,36 @@
+D:\>cd dokumenter
+
+D:\Dokumenter>cd xyz
+
+D:\Dokumenter\xyz>del def.txt
+
+D:\Dokumenter\xyz>cd
+D:\Dokumenter\xyz
+
+D:\Dokumenter\xyz>dir
+ Volume in drive D is DATA
+ Volume Serial Number is 76FE-C516
+
+ Directory of D:\Dokumenter\xyz
+
+21-08-2014  12:19    <DIR>          .
+21-08-2014  12:19    <DIR>          ..
+21-08-2014  11:05                 0 abc.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  251.482.996.736 bytes free
+
+D:\Dokumenter\xyz>rename abc.txt xyz.txt
+
+D:\Dokumenter\xyz>dir
+ Volume in drive D is DATA
+ Volume Serial Number is 76FE-C516
+
+ Directory of D:\Dokumenter\xyz
+
+21-08-2014  12:21    <DIR>          .
+21-08-2014  12:21    <DIR>          ..
+21-08-2014  11:05                 0 xyz.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  251.482.996.736 bytes free
+
+D:\Dokumenter\xyz>

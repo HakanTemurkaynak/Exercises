@@ -1,0 +1,8 @@
+D:\Dokumenter>mkdir xyz
+
+D:\Dokumenter>cd xyz
+
+D:\Dokumenter\xyz>cd
+D:\Dokumenter\xyz
+
+D:\Dokumenter\xyz>

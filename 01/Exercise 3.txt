@@ -1,0 +1,21 @@
+D:\Dokumenter\xyz>start abc.txt
+The system cannot find the file abc.txt.
+
+D:\Dokumenter\xyz>start notepad abc.txt
+
+D:\Dokumenter\xyz>start notepad def.txt
+
+D:\Dokumenter\xyz>dir
+ Volume in drive D is DATA
+ Volume Serial Number is 76FE-C516
+
+ Directory of D:\Dokumenter\xyz
+
+21-08-2014  11:05    <DIR>          .
+21-08-2014  11:05    <DIR>          ..
+21-08-2014  11:05                 0 abc.txt
+21-08-2014  11:05                 0 def.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  200.822.947.840 bytes free
+
+D:\Dokumenter\xyz>

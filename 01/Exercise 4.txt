@@ -1,0 +1,11 @@
+D:\Dokumenter\xyz>cd\dokumenter
+
+D:\Dokumenter>cd 
+D:\Dokumenter
+
+D:\Dokumenter>cd\
+
+D:\>cd
+D:\
+
+D:\>
